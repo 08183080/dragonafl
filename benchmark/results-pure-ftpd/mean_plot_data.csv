@@ -1,0 +1,13 @@
+subject,fuzzer,data_type,time,data
+pure-ftpd,chatafl,nodes,0,0.0
+pure-ftpd,chatafl,nodes,1,21.0
+pure-ftpd,chatafl,nodes,2,21.0
+pure-ftpd,chatafl,nodes,3,21.0
+pure-ftpd,chatafl,nodes,4,22.0
+pure-ftpd,chatafl,nodes,5,22.0
+pure-ftpd,chatafl,edges,0,0.0
+pure-ftpd,chatafl,edges,1,136.0
+pure-ftpd,chatafl,edges,2,136.0
+pure-ftpd,chatafl,edges,3,138.0
+pure-ftpd,chatafl,edges,4,139.0
+pure-ftpd,chatafl,edges,5,139.0
